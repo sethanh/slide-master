@@ -411,3 +411,5 @@ react native : v0.68
 //redux thunk and saga
 
 //native and react native
+//lỗi số dấu chấm động js
+Number(parseFloat(number).toPrecision(12))
